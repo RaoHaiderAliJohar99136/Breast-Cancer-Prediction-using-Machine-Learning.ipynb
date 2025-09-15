@@ -1,1 +1,1 @@
-# Breast-Cancer-Prediction-using-Machine-Learning.ipynb
+# Breast-Cancer-Prediction-Model-using-Machine-Learning
